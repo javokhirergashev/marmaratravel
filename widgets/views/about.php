@@ -14,7 +14,7 @@
                             <img src="frontend-files/images/about/about-v3-img2.jpg" alt="">
                         </div>
                         <div class="experience-box gradient_02">
-                            <h3>20 year's <br>experience</h3>
+                            <h3>20 year's <br>experiencesssss</h3>
                         </div>
                     </div>
                 </div>
