@@ -1,0 +1,42 @@
+<?php
+return[
+    'logo' => "Travel",
+    'follow' => "Follow us",
+    'followinfo' => "The cheapest prices",
+    'followp' => "Incredible prices",
+    'read' => "Read More",
+    'book' => "Book Now",
+    'whychoos' => "Why Choose Us?",
+    'choosinfo' => "Nature's Majesty Awaits You",
+    'whyus' => 'Our Travel Packages
+    Most Easy And Effective',
+    'destination' => "Our Destination",
+    'destininfo' => "Make Yours Destination",
+    'services' => 'Our Services',
+    'countless' => 'Countless Expericences',
+    'world' => 'World Wide',
+    'worldinfo' => "We will help you solve the most difficult visa issues",
+    'adventure' => "Adventures",
+    'adventureinfo' => "We offer only the most interesting and memorable tours",
+    'food' => 'Food & Drinks',
+    'foodinfo' => "You will enjoy delicious food and drinks from different countries",
+    'hotels' => 'Affordable Hotels',
+    'hotelsinfo' => "We recommend the most modern and prestigious hotels",
+    'afforprice' => 'Affordable Prices',
+    'priceinfo' => "The cheapest, most convenient, and most fun trips",
+    'support' => '24/7 support',
+    'supportinfo' => "We are at your service 24/7 to provide you with quality service",
+    'gallery' => 'Our Gallery',
+    'galleryinfo' => "We Record Memories",
+    'blogs' => "Blogs & Posts",
+    'blogsinfo' => "We Untold Stories",
+    'start' => "Start Your Adventures",
+    "Lets" => "Let's Explore This World",
+    "letsinfo" => "Order online and explore the world",
+    'quicklinks' => "Quick Links",
+    'Contactinfo' => "Contact Info",
+    'Newslater' => "News Letter",
+
+]
+
+?>
